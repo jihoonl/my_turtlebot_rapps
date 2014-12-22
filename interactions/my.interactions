@@ -1,0 +1,11 @@
+- name: ""
+  role: Chirp Pairing
+  compatibility: rocon:/*
+  display_name: Chirp
+  description: A strange noise appears
+  max: -1
+  icon:
+    resource_name: rocon_apps/cow.png
+  pairing:
+    rapp: rocon_apps/chirp
+    remappings: []
