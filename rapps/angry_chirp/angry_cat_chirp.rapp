@@ -1,0 +1,5 @@
+display: "Yelling cat" 
+description: "me ya o!"
+compatibility: rocon:/
+launch: angry_cat_chirp.launch
+public_interface: chirp.interface

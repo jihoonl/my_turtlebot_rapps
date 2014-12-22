@@ -19,6 +19,7 @@
   <run_depend>rosbridge_server</run_depend>
 
   <export>
-    <!-- <rocon_app>relative_path_to_rapp/my_rapp.rapp</rocon_app> -->
+    <!--<rocon_app>relative_path_to_rapp/my_rapp.rapp</rocon_app> -->
+    <!--<rocon_app>rapps/angry_chirp/angry_cat_chirp.rapp</rocon_app>-->
   </export>
 </package>

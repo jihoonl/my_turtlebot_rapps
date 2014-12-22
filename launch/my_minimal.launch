@@ -1,6 +1,6 @@
 <launch>
   <arg name="robot_name"             default="guiyome"/>
-  <arg name="rapp_package_whitelist" default="[rocon_apps, turtlebot_rapps]"/>
+  <arg name="rapp_package_whitelist" default="[rocon_apps, turtlebot_rapps, my_turtlebot_rapps]"/>
   <arg name="rapp_package_blacklist" default="[]"/>
   <arg name="interactions_list"      default="[turtlebot_bringup/admin.interactions, turtlebot_bringup/documentation.interactions, turtlebot_bringup/pairing.interactions, my_turtlebot_rapps/my.interactions]"/>
 
